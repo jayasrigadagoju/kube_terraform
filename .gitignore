@@ -2,5 +2,6 @@ ToDo-App/.terraform.lock.hcl
 ToDo-App/.terraform.lock.hcl_bkp
 ToDo-App/.terraform/*
 ToDo-App/.terraform_bkp/*
+Todo-App/.terraform.tfstate
 modules/key/*
 .DS_Store/*
